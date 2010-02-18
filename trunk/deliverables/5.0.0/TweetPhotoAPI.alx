@@ -1,0 +1,31 @@
+<loader version="1.0">
+	<application id="TweetPhotoAPI">
+		<name >
+			TweetPhoto API
+		</name>
+		<description >
+			Demonstrate the TweetPhoto REST API
+		</description>
+		<version >
+			1.0.0
+		</version>
+		<vendor >
+			TweetPhoto, Inc.
+		</vendor>
+		<copyright >
+			Copyright (c) 2010 TweetPhoto, Inc.
+		</copyright>
+		<fileset Java="1.47">
+			<directory >
+				
+			</directory>
+			<files >
+				TweetPhotoAPI.cod
+
+			</files>
+
+		</fileset>
+
+	</application>
+
+</loader>
