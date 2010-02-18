@@ -1,0 +1,10 @@
+MIDlet-Name: TweetPhotoAPI
+MIDlet-Version: 1.0.0
+MIDlet-Vendor: TweetPhoto, Inc.
+MIDlet-Description: Demonstrate the TweetPhoto REST API
+MIDlet-Jar-URL: TweetPhotoAPI.jar
+MIDlet-Jar-Size: 0
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-1: TweetPhoto API,android_logo.png,
+RIM-MIDlet-Flags-1: 0
